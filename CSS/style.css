@@ -4,7 +4,7 @@
 }
 
 #box-1{
-    background-color: red;
+    background-color: rgb(202, 220, 42);
     margin-top: 20px;
     margin-left: 20px;
     /*padding-bottom: 10px;
@@ -16,10 +16,10 @@
 
 body{
     font-family: sans-serif;
-    background-color: green;
+    background-color: rgb(22, 78, 152);
 }
 .header {
-    background-color: #333;
+    background-color: #695858;
     color: white;
     padding: 20px;
 
@@ -32,7 +32,7 @@ body{
     width: 100px;*/
     padding: 20px 40px;
     border: 1px solid transparent;
-    background: #333;
+    background: #5a4a4a;
     color: white;
     border-radius: 15px;
     cursor: pointer;
